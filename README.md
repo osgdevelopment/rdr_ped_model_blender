@@ -14,6 +14,7 @@ Usage Instructions:
 
 ![male_ped_blender](https://github.com/user-attachments/assets/cc5f93ef-6508-4fef-8cec-4846a4ccdc18)
 ![female_ped_blender](https://github.com/user-attachments/assets/c738a07c-1f3e-4d13-a38a-706e1d84ec30)
+![chart_size](https://raw.githubusercontent.com/osgdevelopment/rdr_ped_model_blender/refs/heads/main/male%20and%20femal%20with%20size%20chart.png)
  
 Contents:
 
