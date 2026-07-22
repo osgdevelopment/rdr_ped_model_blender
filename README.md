@@ -26,6 +26,8 @@ Contents:
 
   Added - chart fbx file (you can import just the chart.fbx only if you like for sizes)
 
+  Discord : https://discord.gg/zgu3DJvxPc
+
 Usage Terms:
 
     Feel free to use the models in your projects as needed, but please do not redistribute them commercially or include them in published games or mods.
