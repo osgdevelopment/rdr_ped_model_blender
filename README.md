@@ -21,6 +21,10 @@ Contents:
 
     RDR2_PED_Female.ydr.xml + textures
 
+   Added - Blend file (contains both male and female model)
+
+  Added - chart fbx file (you can import just the chart.fbx only if you like for sizes)
+
 Usage Terms:
 
     Feel free to use the models in your projects as needed, but please do not redistribute them commercially or include them in published games or mods.
@@ -28,4 +32,4 @@ Usage Terms:
     These files are for non-commercial, educational, and personal use only.
 
 
-Tafé YourMAPS
+Thanks to Tafé YourMAPS
